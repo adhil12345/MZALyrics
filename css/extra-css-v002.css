@@ -1,4 +1,3 @@
-<style>
 /* Recommendations Unit */
 .recommendations-unit {
     display: none;
@@ -1415,4 +1414,6 @@ td.releseDate {
     text-align: left;
     padding-inline-start: 6px;
 }
-</style>
+
+
+span#lyricsCooming { width: 300px; } .modal-content.center { display: block; } .recommend-posts { height: 0px !important; } .AT-player{display:none;}
